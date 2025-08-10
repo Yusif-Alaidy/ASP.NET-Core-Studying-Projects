@@ -4,22 +4,74 @@
 
 <h1>Complete Appointment with Doctor Name</h1>
 
-<form id="appointmentForm" method="get" action="#" >
+<form id="appointmentForm" method="get" action="#">
     <div class="form-group">
         <label for="patientName">Patient Name:</label>
-        <input type="text" class="form-control" id="patientName" name="patientName">
+        <input type="text" class="form-control" id="patientName" name="patientName" required>
     </div>
+
     <div class="form-group">
         <label for="appointmentDate">Appointment Date:</label>
-        <input type="date" class="form-control" id="appointmentDate" name="appointmentDate">
+        <input type="date" class="form-control" id="appointmentDate" name="appointmentDate" required>
+        <small id="dateError" class="text-danger"></small>
     </div>
+
     <div class="form-group">
         <label for="appointmentTime">Appointment Time:</label>
-        <input type="time" class="form-control" id="appointmentTime" name="appointmentTime">
+        <input type="time" class="form-control" id="appointmentTime" name="appointmentTime" required>
     </div>
+
     <br />
-    <button type="submit" class="btn btn-primary" id="submitBtn">Complete Appointment</button>
+    <button type="submit" class="btn btn-primary" id="submitBtn" disabled>Complete Appointment</button>
 </form>
+
+<script>
+    const form = document.getElementById("appointmentForm");
+    const submitBtn = document.getElementById("submitBtn");
+    const appointmentDate = document.getElementById("appointmentDate");
+    const dateError = document.getElementById("dateError");
+
+    // تحديد أقل تاريخ مسموح بيه (اليوم)
+    const today = new Date();
+    const todayStr = today.toISOString().split("T")[0];
+    appointmentDate.min = todayStr;
+
+    form.addEventListener("input", validateForm);
+
+    function validateForm() {
+        let isValid = form.checkValidity();
+        let dateValid = validateDate();
+
+        if (isValid && dateValid) {
+            submitBtn.removeAttribute("disabled");
+        } else {
+            submitBtn.setAttribute("disabled", "disabled");
+        }
+    }
+
+    function validateDate() {
+        const selectedDate = new Date(appointmentDate.value);
+        const day = selectedDate.getDay(); // 0 = Sunday, 5 = Friday, 6 = Saturday
+
+        if (!appointmentDate.value) {
+            dateError.textContent = "";
+            return false;
+        }
+
+        if (selectedDate < today) {
+            dateError.textContent = "التاريخ لا يمكن أن يكون قبل اليوم";
+            return false;
+        }
+
+        if (day === 5 || day === 6) {
+            dateError.textContent = "لا يمكن الحجز في يوم الجمعة أو السبت";
+            return false;
+        }
+
+        dateError.textContent = "";
+        return true;
+    }
+</script>
 
 <!-- Success Modal -->
 @*<div class="modal fade" id="successModal" tabindex="-1" aria-labelledby="successModalLabel" aria-hidden="true">

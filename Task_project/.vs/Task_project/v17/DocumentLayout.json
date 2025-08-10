@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Task_project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A8488D1B-1D34-47A8-A4C5-F4CC3598B2E8}|Task_project\\Task_project.csproj|c:\\users\\yusif_j0ovw0c\\downloads\\asp.net core projects\\task_project\\task_project\\views\\doctors\\completeappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8488D1B-1D34-47A8-A4C5-F4CC3598B2E8}|Task_project\\Task_project.csproj|solutionrelative:task_project\\views\\doctors\\completeappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8488D1B-1D34-47A8-A4C5-F4CC3598B2E8}|Task_project\\Task_project.csproj|c:\\users\\yusif_j0ovw0c\\downloads\\asp.net core projects\\task_project\\task_project\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8488D1B-1D34-47A8-A4C5-F4CC3598B2E8}|Task_project\\Task_project.csproj|solutionrelative:task_project\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8488D1B-1D34-47A8-A4C5-F4CC3598B2E8}|Task_project\\Task_project.csproj|c:\\users\\yusif_j0ovw0c\\downloads\\asp.net core projects\\task_project\\task_project\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8488D1B-1D34-47A8-A4C5-F4CC3598B2E8}|Task_project\\Task_project.csproj|solutionrelative:task_project\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A8488D1B-1D34-47A8-A4C5-F4CC3598B2E8}|Task_project\\Task_project.csproj|c:\\users\\yusif_j0ovw0c\\downloads\\asp.net core projects\\task_project\\task_project\\views\\doctors\\bookappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A8488D1B-1D34-47A8-A4C5-F4CC3598B2E8}|Task_project\\Task_project.csproj|solutionrelative:task_project\\views\\doctors\\bookappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -17,10 +29,6 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\ECommerce516\\ECommerce516\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8488D1B-1D34-47A8-A4C5-F4CC3598B2E8}|Task_project\\Task_project.csproj|c:\\users\\yusif_j0ovw0c\\downloads\\asp.net core projects\\task_project\\task_project\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8488D1B-1D34-47A8-A4C5-F4CC3598B2E8}|Task_project\\Task_project.csproj|solutionrelative:task_project\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A8488D1B-1D34-47A8-A4C5-F4CC3598B2E8}|Task_project\\Task_project.csproj|c:\\users\\yusif_j0ovw0c\\downloads\\asp.net core projects\\task_project\\task_project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A8488D1B-1D34-47A8-A4C5-F4CC3598B2E8}|Task_project\\Task_project.csproj|solutionrelative:task_project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -32,7 +40,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -40,7 +48,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompleteAppointment.cshtml",
+              "DocumentMoniker": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Task_project\\Task_project\\Views\\Doctors\\CompleteAppointment.cshtml",
+              "RelativeDocumentMoniker": "Task_project\\Views\\Doctors\\CompleteAppointment.cshtml",
+              "ToolTip": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Task_project\\Task_project\\Views\\Doctors\\CompleteAppointment.cshtml",
+              "RelativeToolTip": "Task_project\\Views\\Doctors\\CompleteAppointment.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAwwDwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T19:16:04.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Task_project\\Task_project\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Task_project\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Task_project\\Task_project\\Models\\Patient.cs",
+              "RelativeToolTip": "Task_project\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T17:48:09.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\ECommerce516\\ECommerce516\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "..\\ECommerce516\\ECommerce516\\Views\\Home\\Index.cshtml",
@@ -48,12 +82,11 @@
               "RelativeToolTip": "..\\ECommerce516\\ECommerce516\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-10T16:29:43.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T16:29:43.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "BookAppointment.cshtml",
               "DocumentMoniker": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Task_project\\Task_project\\Views\\Doctors\\BookAppointment.cshtml",
               "RelativeDocumentMoniker": "Task_project\\Views\\Doctors\\BookAppointment.cshtml",
@@ -66,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\ECommerce516\\ECommerce516\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "..\\ECommerce516\\ECommerce516\\Controllers\\HomeController.cs",
@@ -74,12 +107,11 @@
               "RelativeToolTip": "..\\ECommerce516\\ECommerce516\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T16:23:29.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T16:23:29.662Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Task_project\\Task_project\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Task_project\\Views\\Shared\\_Layout.cshtml",
@@ -87,25 +119,24 @@
               "RelativeToolTip": "Task_project\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-10T15:12:30.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T15:12:30.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "DoctorsController.cs",
               "DocumentMoniker": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Task_project\\Task_project\\Controllers\\DoctorsController.cs",
               "RelativeDocumentMoniker": "Task_project\\Controllers\\DoctorsController.cs",
               "ToolTip": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Task_project\\Task_project\\Controllers\\DoctorsController.cs",
               "RelativeToolTip": "Task_project\\Controllers\\DoctorsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-10T14:32:26.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Doctor.cs",
               "DocumentMoniker": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Task_project\\Task_project\\Models\\Doctor.cs",
               "RelativeDocumentMoniker": "Task_project\\Models\\Doctor.cs",
@@ -113,8 +144,7 @@
               "RelativeToolTip": "Task_project\\Models\\Doctor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T14:30:51.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T14:30:51.725Z"
             }
           ]
         }
