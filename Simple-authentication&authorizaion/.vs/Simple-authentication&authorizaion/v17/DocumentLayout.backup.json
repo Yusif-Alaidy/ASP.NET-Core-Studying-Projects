@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Simple-authentication\u0026authorizaion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E19804-2BF7-4013-A23C-41C820600BAB}|Simple-authentication\u0026authorizaion\\Simple-authentication\u0026authorizaion.csproj|c:\\users\\yusif_j0ovw0c\\downloads\\asp.net core projects\\simple-authentication\u0026authorizaion\\simple-authentication\u0026authorizaion\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E19804-2BF7-4013-A23C-41C820600BAB}|Simple-authentication\u0026authorizaion\\Simple-authentication\u0026authorizaion.csproj|solutionrelative:simple-authentication\u0026authorizaion\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E19804-2BF7-4013-A23C-41C820600BAB}|Simple-authentication\u0026authorizaion\\Simple-authentication\u0026authorizaion.csproj|c:\\users\\yusif_j0ovw0c\\downloads\\asp.net core projects\\simple-authentication\u0026authorizaion\\simple-authentication\u0026authorizaion\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E19804-2BF7-4013-A23C-41C820600BAB}|Simple-authentication\u0026authorizaion\\Simple-authentication\u0026authorizaion.csproj|solutionrelative:simple-authentication\u0026authorizaion\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E19804-2BF7-4013-A23C-41C820600BAB}|Simple-authentication\u0026authorizaion\\Simple-authentication\u0026authorizaion.csproj|c:\\users\\yusif_j0ovw0c\\downloads\\asp.net core projects\\simple-authentication\u0026authorizaion\\simple-authentication\u0026authorizaion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E19804-2BF7-4013-A23C-41C820600BAB}|Simple-authentication\u0026authorizaion\\Simple-authentication\u0026authorizaion.csproj|solutionrelative:simple-authentication\u0026authorizaion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E19804-2BF7-4013-A23C-41C820600BAB}|Simple-authentication\u0026authorizaion\\Simple-authentication\u0026authorizaion.csproj|c:\\users\\yusif_j0ovw0c\\downloads\\asp.net core projects\\simple-authentication\u0026authorizaion\\simple-authentication\u0026authorizaion\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E19804-2BF7-4013-A23C-41C820600BAB}|Simple-authentication\u0026authorizaion\\Simple-authentication\u0026authorizaion.csproj|solutionrelative:simple-authentication\u0026authorizaion\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E19804-2BF7-4013-A23C-41C820600BAB}|Simple-authentication\u0026authorizaion\\Simple-authentication\u0026authorizaion.csproj|c:\\users\\yusif_j0ovw0c\\downloads\\asp.net core projects\\simple-authentication\u0026authorizaion\\simple-authentication\u0026authorizaion\\simple-authentication\u0026authorizaion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B7E19804-2BF7-4013-A23C-41C820600BAB}|Simple-authentication\u0026authorizaion\\Simple-authentication\u0026authorizaion.csproj|solutionrelative:simple-authentication\u0026authorizaion\\simple-authentication\u0026authorizaion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E19804-2BF7-4013-A23C-41C820600BAB}|Simple-authentication\u0026authorizaion\\Simple-authentication\u0026authorizaion.csproj|c:\\users\\yusif_j0ovw0c\\downloads\\asp.net core projects\\simple-authentication\u0026authorizaion\\simple-authentication\u0026authorizaion\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E19804-2BF7-4013-A23C-41C820600BAB}|Simple-authentication\u0026authorizaion\\Simple-authentication\u0026authorizaion.csproj|solutionrelative:simple-authentication\u0026authorizaion\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Simple-authentication\u0026authorizaion\\Simple-authentication\u0026authorizaion\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Simple-authentication\u0026authorizaion\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Simple-authentication\u0026authorizaion\\Simple-authentication\u0026authorizaion\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Simple-authentication\u0026authorizaion\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T14:01:57.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Simple-authentication\u0026authorizaion\\Simple-authentication\u0026authorizaion\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Simple-authentication\u0026authorizaion\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Simple-authentication\u0026authorizaion\\Simple-authentication\u0026authorizaion\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Simple-authentication\u0026authorizaion\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T13:51:19.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Simple-authentication\u0026authorizaion\\Simple-authentication\u0026authorizaion\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Simple-authentication\u0026authorizaion\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Simple-authentication\u0026authorizaion\\Simple-authentication\u0026authorizaion\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Simple-authentication\u0026authorizaion\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T13:47:11.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Simple-authentication\u0026authorizaion\\Simple-authentication\u0026authorizaion\\Program.cs",
+              "RelativeDocumentMoniker": "Simple-authentication\u0026authorizaion\\Program.cs",
+              "ToolTip": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Simple-authentication\u0026authorizaion\\Simple-authentication\u0026authorizaion\\Program.cs",
+              "RelativeToolTip": "Simple-authentication\u0026authorizaion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T13:42:42.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Simple-authentication\u0026authorizaion\\Simple-authentication\u0026authorizaion\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Simple-authentication\u0026authorizaion\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Simple-authentication\u0026authorizaion\\Simple-authentication\u0026authorizaion\\Models\\UserModel.cs",
+              "RelativeToolTip": "Simple-authentication\u0026authorizaion\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T13:41:04.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Simple-authentication\u0026authorizaion",
+              "DocumentMoniker": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Simple-authentication\u0026authorizaion\\Simple-authentication\u0026authorizaion\\Simple-authentication\u0026authorizaion.csproj",
+              "RelativeDocumentMoniker": "Simple-authentication\u0026authorizaion\\Simple-authentication\u0026authorizaion.csproj",
+              "ToolTip": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Simple-authentication\u0026authorizaion\\Simple-authentication\u0026authorizaion\\Simple-authentication\u0026authorizaion.csproj",
+              "RelativeToolTip": "Simple-authentication\u0026authorizaion\\Simple-authentication\u0026authorizaion.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-11T13:40:32.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Auth-tutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2303D1CC-3C58-47B1-B02C-2E21A32EF6BC}|Auth-tutorial\\Auth-tutorial.csproj|c:\\users\\yusif_j0ovw0c\\downloads\\asp.net core projects\\auth-tutorial\\auth-tutorial\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2303D1CC-3C58-47B1-B02C-2E21A32EF6BC}|Auth-tutorial\\Auth-tutorial.csproj|solutionrelative:auth-tutorial\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2303D1CC-3C58-47B1-B02C-2E21A32EF6BC}|Auth-tutorial\\Auth-tutorial.csproj|c:\\users\\yusif_j0ovw0c\\downloads\\asp.net core projects\\auth-tutorial\\auth-tutorial\\models\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2303D1CC-3C58-47B1-B02C-2E21A32EF6BC}|Auth-tutorial\\Auth-tutorial.csproj|solutionrelative:auth-tutorial\\models\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2303D1CC-3C58-47B1-B02C-2E21A32EF6BC}|Auth-tutorial\\Auth-tutorial.csproj|c:\\users\\yusif_j0ovw0c\\downloads\\asp.net core projects\\auth-tutorial\\auth-tutorial\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2303D1CC-3C58-47B1-B02C-2E21A32EF6BC}|Auth-tutorial\\Auth-tutorial.csproj|solutionrelative:auth-tutorial\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2303D1CC-3C58-47B1-B02C-2E21A32EF6BC}|Auth-tutorial\\Auth-tutorial.csproj|c:\\users\\yusif_j0ovw0c\\downloads\\asp.net core projects\\auth-tutorial\\auth-tutorial\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2303D1CC-3C58-47B1-B02C-2E21A32EF6BC}|Auth-tutorial\\Auth-tutorial.csproj|solutionrelative:auth-tutorial\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2303D1CC-3C58-47B1-B02C-2E21A32EF6BC}|Auth-tutorial\\Auth-tutorial.csproj|c:\\users\\yusif_j0ovw0c\\downloads\\asp.net core projects\\auth-tutorial\\auth-tutorial\\models\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2303D1CC-3C58-47B1-B02C-2E21A32EF6BC}|Auth-tutorial\\Auth-tutorial.csproj|solutionrelative:auth-tutorial\\models\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Auth-tutorial\\Auth-tutorial\\Migrations\\20250818192655_addRefreshTokenInUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Auth-tutorial\\Migrations\\20250818192655_addRefreshTokenInUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2303D1CC-3C58-47B1-B02C-2E21A32EF6BC}|Auth-tutorial\\Auth-tutorial.csproj|c:\\users\\yusif_j0ovw0c\\downloads\\asp.net core projects\\auth-tutorial\\auth-tutorial\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2303D1CC-3C58-47B1-B02C-2E21A32EF6BC}|Auth-tutorial\\Auth-tutorial.csproj|solutionrelative:auth-tutorial\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2303D1CC-3C58-47B1-B02C-2E21A32EF6BC}|Auth-tutorial\\Auth-tutorial.csproj|c:\\users\\yusif_j0ovw0c\\downloads\\asp.net core projects\\auth-tutorial\\auth-tutorial\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2303D1CC-3C58-47B1-B02C-2E21A32EF6BC}|Auth-tutorial\\Auth-tutorial.csproj|solutionrelative:auth-tutorial\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2303D1CC-3C58-47B1-B02C-2E21A32EF6BC}|Auth-tutorial\\Auth-tutorial.csproj|c:\\users\\yusif_j0ovw0c\\downloads\\asp.net core projects\\auth-tutorial\\auth-tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2303D1CC-3C58-47B1-B02C-2E21A32EF6BC}|Auth-tutorial\\Auth-tutorial.csproj|solutionrelative:auth-tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RefreshTokenRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Auth-tutorial\\Auth-tutorial\\Models\\RefreshTokenRequestDto.cs",
+              "RelativeDocumentMoniker": "Auth-tutorial\\Models\\RefreshTokenRequestDto.cs",
+              "ToolTip": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Auth-tutorial\\Auth-tutorial\\Models\\RefreshTokenRequestDto.cs",
+              "RelativeToolTip": "Auth-tutorial\\Models\\RefreshTokenRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T23:30:01.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Auth-tutorial\\Auth-tutorial\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Auth-tutorial\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Auth-tutorial\\Auth-tutorial\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Auth-tutorial\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T20:19:48.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Auth-tutorial\\Auth-tutorial\\Models\\TokenResponseDto.cs",
+              "RelativeDocumentMoniker": "Auth-tutorial\\Models\\TokenResponseDto.cs",
+              "ToolTip": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Auth-tutorial\\Auth-tutorial\\Models\\TokenResponseDto.cs",
+              "RelativeToolTip": "Auth-tutorial\\Models\\TokenResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T20:16:33.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250818192655_addRefreshTokenInUser.cs",
+              "DocumentMoniker": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Auth-tutorial\\Auth-tutorial\\Migrations\\20250818192655_addRefreshTokenInUser.cs",
+              "RelativeDocumentMoniker": "Auth-tutorial\\Migrations\\20250818192655_addRefreshTokenInUser.cs",
+              "ToolTip": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Auth-tutorial\\Auth-tutorial\\Migrations\\20250818192655_addRefreshTokenInUser.cs",
+              "RelativeToolTip": "Auth-tutorial\\Migrations\\20250818192655_addRefreshTokenInUser.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:26:55.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Auth-tutorial\\Auth-tutorial\\Program.cs",
+              "RelativeDocumentMoniker": "Auth-tutorial\\Program.cs",
+              "ToolTip": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Auth-tutorial\\Auth-tutorial\\Program.cs",
+              "RelativeToolTip": "Auth-tutorial\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwCEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T23:33:54.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Auth-tutorial\\Auth-tutorial\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Auth-tutorial\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Auth-tutorial\\Auth-tutorial\\Services\\AuthService.cs",
+              "RelativeToolTip": "Auth-tutorial\\Services\\AuthService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAnwDIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T23:06:57.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Auth-tutorial\\Auth-tutorial\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Auth-tutorial\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Auth-tutorial\\Auth-tutorial\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Auth-tutorial\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswEEAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T19:20:13.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Auth-tutorial\\Auth-tutorial\\Models\\UserDto.cs",
+              "RelativeDocumentMoniker": "Auth-tutorial\\Models\\UserDto.cs",
+              "ToolTip": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Auth-tutorial\\Auth-tutorial\\Models\\UserDto.cs",
+              "RelativeToolTip": "Auth-tutorial\\Models\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T19:19:18.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Auth-tutorial\\Auth-tutorial\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Auth-tutorial\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\yusif_j0ovw0c\\Downloads\\ASP.NET Core Projects\\Auth-tutorial\\Auth-tutorial\\Entities\\User.cs",
+              "RelativeToolTip": "Auth-tutorial\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T19:17:52.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

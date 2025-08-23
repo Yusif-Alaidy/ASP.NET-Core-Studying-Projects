@@ -2,6 +2,33 @@
 @model List<Doctor>
 <h1>Book Appointment</h1>
 
+<section class="py-3 filter-bar">
+    <div class="container">
+        <div class="row" style="background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;">
+            <div class="col-12">
+                <form>
+                    <div class="row">
+                        <!-- Product Name -->
+                        <div class="col-md-3">
+                            <input type="text" class="form-control" placeholder="Doctore Name" name="Name" value="@ViewBag.DoctorName">
+                        </div>
+
+                        <div class="col-md-3">
+                            <input type="text" class="form-control" placeholder="Spacialization" name="Spacialization" value="@ViewBag.SpacializationName">
+                        </div>
+
+                        <!-- Submit Button -->
+                        <div class="col-md-2">
+                            <button type="submit" class="btn btn-dark w-100">Filter</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+
 <div class="row">
         @foreach(var item in Model){
     <div class="col-md-4 mb-4">
@@ -10,9 +37,40 @@
             <div class="card-body">
                 <h5 class="card-title">@item.Name</h5>
                 <p class="card-text">Specialization: @item.Specialization</p>
-                <a href="#" class="btn btn-primary">Book Appointment</a>
+                    <a href="/Doctors/CompleteAppointment/@item.Id" class="btn btn-primary">Book Appointment</a>
             </div>
         </div>
     </div>
         }
+</div>
+
+<div class="row">
+    <div class="col-12 d-flex justify-content-center">
+        <nav aria-label="Page navigation example">
+            <ul class="pagination">
+                @if (ViewBag.currentPage > 1)
+                {
+                    <li class="page-item"><a class="page-link" href="/?page=@(ViewBag.currentPage - 1)">Previous</a></li>
+                }
+
+                @for (var i = 1; i <= ViewBag.totalNumberOfPages; i++)
+                {
+                    @if (i == ViewBag.currentPage)
+                    {
+                        <li class="page-item active"><a class="page-link" href="/?Name=@ViewBag.DoctorName&Spacialization=@ViewBag.DoctorSpacialization&page=@i">@i</a></li>
+                    }
+                    else
+                    {
+                        <li class="page-item"><a class="page-link" href="/?Name=@ViewBag.DoctorName&Spacialization=@ViewBag.DoctorSpacialization&page=@i">@i</a></li>
+                    }
+
+                }
+
+                @if (ViewBag.currentPage != ViewBag.totalNumberOfPages && Model.Any())
+                {
+                    <li class="page-item"><a class="page-link" href="/?page=@(ViewBag.currentPage + 1)">Next</a></li>
+                }
+            </ul>
+        </nav>
+    </div>
 </div>

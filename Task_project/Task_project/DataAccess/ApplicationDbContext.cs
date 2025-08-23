@@ -6,6 +6,8 @@ namespace Task_project.DataAccess
     public class ApplicationDbContext : DbContext
     {
         public DbSet<Doctor> Doctors { get; set; }
+        public DbSet<Patient> patients { get; set; }
+        public DbSet<Reservation> reservations { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);

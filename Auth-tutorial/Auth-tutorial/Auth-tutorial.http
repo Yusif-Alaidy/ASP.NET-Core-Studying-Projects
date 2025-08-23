@@ -1,0 +1,6 @@
+@Auth_tutorial_HostAddress = http://localhost:5089
+
+GET {{Auth_tutorial_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
